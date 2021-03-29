@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+}
