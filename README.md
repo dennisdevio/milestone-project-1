@@ -4,6 +4,7 @@ The aim of this project is to create a webpage for a café called The Golden Pre
 their café and provide information about their services to both new and returning customers.
 
 ## User Experience (UX)
+The aim was make the user experience as smooth and accessible as possible, creating a website that is easily accessible across all device sizes.
 
 ### User Stories
 
@@ -28,9 +29,12 @@ their café and provide information about their services to both new and returni
 -
 
 ### Wireframes
--
+My original idea was to make five wireframes, one for each of Bootstrap4's breakpoints but I felt it didn't make sense. After some consideration I changed it to three.
+
+The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
 
 ## Features
+Responsiveness across all device sizes
 
 ### Existing Features
 -
@@ -39,17 +43,21 @@ their café and provide information about their services to both new and returni
 -
 
 ## Technologies
-The following technologies were utilized to build this project.
+The technologies utilized to build this website are
 
 ### Languages 
-To build this project I used
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
-- [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) HTML5 was used for structuring the basis of the website. 
+- [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) CSS3 was used for the placement and styling of the HTML5 content. 
 
-They were used together to accomplish the overall look and feel of the website. HTML5 was used for structuring the basis of the website. CSS3 was used for the placement and styling of the HTML5 content.
+They were used together to accomplish the overall look and feel and responsiveness of the website. 
 
-### Frameworks, Libraries and Programs
--
+### Frameworks
+
+### Libraries 
+
+#### Programs
+
+- I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
 
 ## Testing
 
