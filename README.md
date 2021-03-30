@@ -41,7 +41,9 @@ their café and provide information about their services to both new and returni
 ## Technologies Used
 
 ### Languages Used
--
+For this project I used the following Languages
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
 
 ### Frameworks, Libraries and Programs Used
 -
@@ -72,10 +74,10 @@ their café and provide information about their services to both new and returni
 ## Deployment
 
 ### Hosting Platform
--
 
 ### Repository
--
+
+There project reposity is hosted on [Github](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
 
@@ -88,11 +90,8 @@ their café and provide information about their services to both new and returni
 #### Images
 -
 
-#### Videos
--
-
 ### Inspiration
--
+I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
 
 ### Acknowledgements
 -
