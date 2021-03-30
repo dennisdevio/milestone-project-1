@@ -38,14 +38,17 @@ their café and provide information about their services to both new and returni
 ### Features Left to Implement
 -
 
-## Technologies Used
+## Technologies
+The following technologies were utilized to build this project.
 
-### Languages Used
-For this project I used the following Languages
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-- [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
+### Languages 
+To build this project I used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+- [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) 
 
-### Frameworks, Libraries and Programs Used
+They were used together to accomplish the overall look and feel of the website. HTML5 was used for structuring the basis of the website. CSS3 was used for the placement and styling of the HTML5 content.
+
+### Frameworks, Libraries and Programs
 -
 
 ## Testing
@@ -77,7 +80,7 @@ For this project I used the following Languages
 
 ### Repository
 
-There project reposity is hosted on [Github](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
+There project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
 
