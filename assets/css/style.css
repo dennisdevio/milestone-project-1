@@ -3,12 +3,20 @@ body {
     color: brown;
 }
 
+div {
+    height: 300px;
+}
+
+#nav-links {
+    float: right;
+}
+
 a {
     text-decoration: none;
     color: brown;
 }
 
-ul li {
+li {
     list-style: none;
-    display: inline-block;
+    display: inline;
 }
