@@ -4,12 +4,12 @@ The aim of this project is to create a webpage for a café called The Golden Pre
 their café and provide information about their services to both new and returning customers.
 
 ## User Experience (UX)
-The aim was make the user experience as smooth and accessible as possible, creating a website that is easily accessible across all device sizes.
+The aim was make the user experience as accessible as possible for all clients by creating a website that is easily accessible across all device sizes.
 
 ### User Stories
 
 #### First Time User Goals
--
+- 
 
 #### Returning User Goals
 -
@@ -61,17 +61,6 @@ They were used together to accomplish the overall look and feel and responsivene
 
 ## Testing
 
-### Testing User Stories (UX)
-
-#### First Time User Goals
--
-
-#### Returning User Goals
--
-
-#### Frequent User Goals
--
-
 ### Further Testing
 
 ### Known Bugs
@@ -92,9 +81,6 @@ There project reposity is hosted on [GitHub](https://github.com/) and can be fou
 
 ## Credits
 
-### Media
--
-
 #### Text
 -
 
@@ -105,5 +91,5 @@ There project reposity is hosted on [GitHub](https://github.com/) and can be fou
 I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
 
 ### Acknowledgements
--
--
+- Code Institute's tutor support and Slack Community.
+- My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
