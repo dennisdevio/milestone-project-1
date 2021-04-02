@@ -65,37 +65,25 @@ li a:hover {
 #drink-menu {
     width: 300px;
     display: inline-block;
-    /*
-    float: left;
-    */
 }
 
 #eat-menu {
     width: 25%;
     display: inline-block;
-    /*
-    float: right;
-    */
 }
 
 #hours {
     width: 25%;
     display: inline-block;
-      /*
-    float: left;
-    */
 }
 
 #address {
     width: 300px;
     display: inline-block;
-    /*
-    float: right;
-    */
 }
 
 #social {
-    height: 100px;
+    height: 75px;
     background-color: khaki;
     color: rgb(120, 0, 0);
 }

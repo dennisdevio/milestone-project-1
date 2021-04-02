@@ -22,11 +22,14 @@ The aim was make the user experience as accessible as possible for all clients b
 #### Colors
 -
 
-#### Fonts
-All fonts were taken from [Google Fonts](https://fonts.google.com/)
+#### Fonts and Icons
+The fonts I chose were Courgette for the headings and Roboto for the paragraph text.
+I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I used for the social media links were taken from [Fontawesome](https://fontawesome.com/start)
 
 #### Images
-All images were taken from [Unsplash](unsplash.com/). I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
+All images were taken from [Unsplash](unsplash.com/). 
+I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
+
 ### Wireframes
 My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with InVision instead.
 
