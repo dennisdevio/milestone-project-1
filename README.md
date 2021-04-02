@@ -26,8 +26,7 @@ The aim was make the user experience as accessible as possible for all clients b
 All fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 #### Images
-All images were taken from [Unsplash](unsplash.com/)
-
+All images were taken from [Unsplash](unsplash.com/). I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
 ### Wireframes
 My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with InVision instead.
 
@@ -91,4 +90,4 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's tutor support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-## This project was made for educational purposes.
+#### This project was made for educational purposes.
