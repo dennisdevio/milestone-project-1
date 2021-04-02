@@ -1,22 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
 body {
-    background-color: blanchedalmond;
-    color: brown;
+    background-color: rgb(234, 198, 150);
+    font-family: 'Roboto', sans-serif;
+    color: darkred;
 }
 
 div {
     height: 300px;
 }
 
-#nav-links {
-    float: right;
+h1 {
+    padding-left: 30px;
+    float: left;
+    line-height: 75px;
+}
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
 }
 
 a {
     text-decoration: none;
-    color: brown;
+    color: darkred;
 }
 
-li {
+ul {
+    float: right;
+    line-height: 75px;
+}
+
+ul li {
     list-style: none;
     display: inline;
+    font-size: 120%;
+    font-weight: bold;
+    padding-right: 30px;
+    float: left;
+}
+
+li a:hover {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+.info {
+    text-align: center;
+}
+
+#navbar {
+    background-color: fuchsia;
+    height: 75px;
+}
+
+#about {
+    background-color: green;
+}
+
+#menu {
+    background-color: cornflowerblue;
+}
+
+#contact {
+    background-color: indianred;
+}
+
+#social {
+    background-color: khaki;
+    height: 100px;
 }
