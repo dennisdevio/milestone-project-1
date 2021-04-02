@@ -28,7 +28,7 @@ h1, h2, h3 {
 
 a {
     text-decoration: none;
-    color: darkred;
+    color: rgb(120, 0, 0);
 }
 
 ul {
@@ -97,4 +97,5 @@ li a:hover {
 #social {
     height: 100px;
     background-color: khaki;
+    color: rgb(120, 0, 0);
 }
