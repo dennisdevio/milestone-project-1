@@ -29,23 +29,15 @@ All fonts were taken from [Google Fonts](https://fonts.google.com/)
 All images were taken from [Unsplash](unsplash.com/)
 
 ### Wireframes
-My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefor I decided to go with InVision instead.
+My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with InVision instead.
 
 The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
 
 ## Features
-The website is built with several sections on one page. 
-
-There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services.
-
-Further down there is a menu section with a two part menu - with drinks and foods.
-
-At the bottom their contact information and opening hours are listed aswell as links to their social media.
-
-The site features responsiveness across all device sizes.
+The website is built with several sections on one page and it is responsive across all device sizes.
 
 ### Existing Features
--
+There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services. Further down there is a menu section with a two part menu - with drinks and foods. At the bottom their contact information and opening hours are listed aswell as links to their social media.
 
 ### Features Left to Implement
 -
@@ -64,7 +56,6 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ### Libraries 
 
 #### Programs
-
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
 
 ## Testing
@@ -82,9 +73,9 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ## Deployment
 
 ### Hosting Platform
+The live website is hosted on [GitHub Pages](https://pages.github.com/) and can be found here [here](https://tetrapak-dev.github.io/milestone-project-1/)
 
 ### Repository
-
 There project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
@@ -101,3 +92,5 @@ I recieved inspiration for this project from a family member who wishes to one d
 ### Acknowledgements
 - Code Institute's tutor support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
+
+##This project was made for educational purposes.

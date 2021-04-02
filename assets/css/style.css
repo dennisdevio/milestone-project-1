@@ -68,19 +68,35 @@ li a:hover {
 }
 
 #drink-menu {
+    width: 300px;
+    display: inline-block;
+    /*
     float: left;
+    */
 }
 
 #eat-menu {
+    width: 25%;
+    display: inline-block;
+    /*
     float: right;
+    */
 }
 
 #hours {
+    width: 25%;
+    display: inline-block;
+      /*
     float: left;
+    */
 }
 
 #address {
+    width: 300px;
+    display: inline-block;
+    /*
     float: right;
+    */
 }
 
 #contact {
