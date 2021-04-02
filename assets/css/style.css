@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgb(234, 198, 150);
+    background-color: white;
     font-family: 'Roboto', sans-serif;
     color: darkred;
 }
@@ -57,15 +57,10 @@ li a:hover {
 
 #navbar {
     height: 75px;
+    background-color: khaki;
 }
 
-#about {
-    background-color: green;
-}
 
-#menu {
-    background-color: cornflowerblue;
-}
 
 #drink-menu {
     width: 300px;
@@ -99,11 +94,7 @@ li a:hover {
     */
 }
 
-#contact {
-    background-color: indianred;
-}
-
 #social {
-    background-color: khaki;
     height: 100px;
+    background-color: khaki;
 }
