@@ -23,18 +23,26 @@ The aim was make the user experience as accessible as possible for all clients b
 -
 
 #### Fonts
--
+All fonts were taken from [Google Fonts](https://fonts.google.com/)
 
 #### Images
--
+All images were taken from [Unsplash](unsplash.com/)
 
 ### Wireframes
-My original idea was to make five wireframes, one for each of Bootstrap4's breakpoints but I felt it didn't make sense. After some consideration I changed it to three.
+My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefor I decided to go with InVision instead.
 
 The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
 
 ## Features
-Responsiveness across all device sizes
+The website is built with several sections on one page. 
+
+There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services.
+
+Further down there is a menu section with a two part menu - with drinks and foods.
+
+At the bottom their contact information and opening hours are listed aswell as links to their social media.
+
+The site features responsiveness across all device sizes.
 
 ### Existing Features
 -
@@ -49,7 +57,7 @@ The technologies utilized to build this website are
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) HTML5 was used for structuring the basis of the website. 
 - [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) CSS3 was used for the placement and styling of the HTML5 content. 
 
-They were used together to accomplish the overall look and feel and responsiveness of the website. 
+They were used in tandem to accomplish the overall look and feel and responsiveness of the website. 
 
 ### Frameworks
 
@@ -91,5 +99,5 @@ There project reposity is hosted on [GitHub](https://github.com/) and can be fou
 I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
 
 ### Acknowledgements
-- Code Institute's tutor support and Slack Community.
+- Code Institute's tutor support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
