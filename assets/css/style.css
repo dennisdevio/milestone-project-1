@@ -55,20 +55,27 @@ li a:hover {
     text-align: center;
 }
 
+.info-about {
+    width: 33%;
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
 #navbar {
     height: 75px;
     background-color: khaki;
 }
 
-
-
 #drink-menu {
-    width: 300px;
+    width: 25%;
+    padding-top: 10px;
     display: inline-block;
 }
 
 #eat-menu {
     width: 25%;
+    padding-top: 10px;
     display: inline-block;
 }
 
@@ -78,12 +85,13 @@ li a:hover {
 }
 
 #address {
-    width: 300px;
+    width: 25%;
     display: inline-block;
 }
 
-#social {
+.info-social {
     height: 75px;
     background-color: khaki;
     color: rgb(120, 0, 0);
 }
+
