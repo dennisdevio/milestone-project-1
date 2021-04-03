@@ -12,10 +12,6 @@ body {
     color: darkred;
 }
 
-div {
-    height: 300px;
-}
-
 h1 {
     padding-left: 30px;
     float: left;
@@ -43,12 +39,6 @@ ul li {
     font-weight: bold;
     padding-right: 30px;
     float: left;
-}
-
-li a:hover {
-    color: black;
-    font-weight: bold;
-    border-bottom: 2px solid black;
 }
 
 .info {
