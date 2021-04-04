@@ -3,3 +3,13 @@
 ul {
     list-style: none;
 }
+
+footer {
+    height: 75px;
+    background-color: khaki;
+}
+
+footer li {
+    display: inline;
+    margin: 40px;
+}
