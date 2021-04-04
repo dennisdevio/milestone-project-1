@@ -11,6 +11,12 @@ ul {
     list-style: none;
 }
 
+.welcome-text {
+    font-size: 105%;
+    font-style: oblique;
+    font-weight: 900;
+}
+
 
 /* FOOTER */
 
