@@ -2,12 +2,16 @@
 
 
 
-/* ABOUT SECTION */
+/* HOME SECTION */
 
 .jumbotron {
     font-size: 120%;
     background-color: khaki;
 }
+
+
+
+/* ABOUT SECTION */
 
 .about-us {
     margin: 15px;
