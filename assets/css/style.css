@@ -9,6 +9,10 @@
     background-color: khaki;
 }
 
+.about-us {
+    margin: 15px;
+}
+
 .welcome-text {
     font-size: 105%;
     font-style: oblique;
