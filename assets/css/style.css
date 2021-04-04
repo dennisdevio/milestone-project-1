@@ -42,6 +42,23 @@ ul {
 
 
 
+/* CONTACT SECTION */
+
+.contact {
+    margin: 15px;
+    margin-top: 30px;
+}
+
+.contact-hours {
+    margin: 15px;
+}
+
+.contact-address {
+    margin: 15px;
+}
+
+
+
 /* FOOTER */
 
 footer {
