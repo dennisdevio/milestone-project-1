@@ -1,8 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto&display=swap');
 
+/* BODY */
+
+.jumbotron {
+    background-color: khaki;
+}
+
 ul {
     list-style: none;
 }
+
+
+/* FOOTER */
 
 footer {
     height: 75px;
