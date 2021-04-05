@@ -30,6 +30,10 @@ p {
     font-size: 130%;
 }
 
+.navbar a:hover {
+    border-bottom: 2px solid #060606;
+}
+
 .logo {
     width: 50px;
     height: auto;
