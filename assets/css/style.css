@@ -21,7 +21,7 @@ p {
 /* NAVBAR */
 
 .navbar {
-    background-color: rgb(236, 224, 119);
+    background-color: rgb(245, 226, 63);
     box-shadow: 0 0 5px 0 #212529;
 }
 
@@ -47,7 +47,7 @@ p {
 .covid-announcement {
     font-size: 120%;
     font-weight: bolder;
-    background-color: rgb(236, 224, 119);
+    background-color: rgb(245, 226, 63);
     text-align: center;
     padding: 15px;
     padding-top: 25px;
@@ -73,7 +73,7 @@ p {
 /* MENU SECTION */
 
 .jumbotron-menu {
-    background-color: rgb(236, 224, 119);
+    background-color: rgb(245, 226, 63);
 }
 
 ul {
@@ -125,7 +125,7 @@ ul {
 footer {
     margin-top: 100px;
     height: 75px;
-    background-color: rgb(236, 224, 119);
+    background-color: rgb(245, 226, 63);
     box-shadow: 0 0 5px 0 #212529;
 }
 
