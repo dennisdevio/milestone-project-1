@@ -2,6 +2,12 @@
 
 /* BODY */
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 h2, h3 {
     font-family: 'Courgette', cursive;
 }
@@ -34,10 +40,14 @@ p {
 /* HOME SECTION */
 
 
-.jumbotron-covid {
+.covid-announcement {
     font-size: 120%;
     font-weight: bolder;
     background-color: rgb(236, 224, 119);
+    text-align: center;
+    padding: 15px;
+    padding-top: 25px;
+    margin-bottom: 30px;
 }
 
 
