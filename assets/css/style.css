@@ -4,7 +4,7 @@
 
 /* HOME SECTION */
 
-.jumbotron {
+.jumbotron-covid {
     font-size: 120%;
     background-color: khaki;
 }
@@ -26,6 +26,10 @@
 
 
 /* MENU SECTION */
+
+.jumbotron-menu {
+    background-color: khaki;
+}
 
 ul {
     list-style: none;
