@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto&display=swap');
 
+/* BODY */
 
+h2, h3 {
+    font-family: 'Courgette', cursive;
+}
 
 /* NAVBAR */
 
@@ -9,13 +13,14 @@
     box-shadow: 0 0 5px 0 grey;
 }
 
+.navbar a {
+    font-family: 'Courgette', cursive;
+    font-size: 130%;
+}
+
 .logo {
     width: 50px;
     height: auto;
-}
-
-.navbar a {
-    color: darkred;
 }
 
 
