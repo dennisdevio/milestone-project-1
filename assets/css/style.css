@@ -15,7 +15,7 @@ p {
 /* NAVBAR */
 
 .navbar {
-    background-color: khaki;
+    background-color: rgb(236, 224, 119);
     box-shadow: 0 0 5px 0 grey;
 }
 
@@ -44,7 +44,7 @@ p {
 .jumbotron-covid {
     font-size: 120%;
     font-weight: bolder;
-    background-color: khaki;
+    background-color: rgb(236, 224, 119);
 }
 
 
@@ -66,7 +66,7 @@ p {
 /* MENU SECTION */
 
 .jumbotron-menu {
-    background-color: khaki;
+    background-color: rgb(236, 224, 119);
 }
 
 ul {
@@ -118,7 +118,7 @@ ul {
 footer {
     margin-top: 100px;
     height: 75px;
-    background-color: khaki;
+    background-color: rgb(236, 224, 119);
     box-shadow: 0 0 5px 0 grey;
 }
 
