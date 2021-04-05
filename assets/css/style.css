@@ -16,7 +16,7 @@ p {
 
 .navbar {
     background-color: rgb(236, 224, 119);
-    box-shadow: 0 0 5px 0 grey;
+    box-shadow: 0 0 5px 0 #212529;
 }
 
 .navbar a {
@@ -33,13 +33,6 @@ p {
 
 /* HOME SECTION */
 
-  /* BOOTSTRAP CAROUSEL */
-
-
-.carousel img {
-    width: 100%;
-    height: auto;
-  }
 
 .jumbotron-covid {
     font-size: 120%;
@@ -119,7 +112,7 @@ footer {
     margin-top: 100px;
     height: 75px;
     background-color: rgb(236, 224, 119);
-    box-shadow: 0 0 5px 0 grey;
+    box-shadow: 0 0 5px 0 #212529;
 }
 
 footer li {
