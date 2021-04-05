@@ -9,6 +9,11 @@
 
 /* HOME SECTION */
 
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
 .jumbotron-covid {
     font-size: 120%;
     font-weight: bolder;
