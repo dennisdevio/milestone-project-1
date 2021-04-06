@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto&display=swap');
 
+
+
 /* BODY */
 
 * {
@@ -41,13 +43,17 @@ p {
 
 
 
-/* HOME SECTION */
+/* BOOTSTRAP CAROUSEL */
 
 .carousel-item img {
     width: 100%; 
     height: 140mm;
     object-fit: cover;
 }
+
+
+
+/* HOME SECTION */
 
 .covid-announcement {
     font-size: 120%;
