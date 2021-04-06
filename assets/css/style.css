@@ -101,8 +101,8 @@ ul {
 
 .café-menu-heading {
     text-align: center;
-    margin: 15px;
-    margin-top: 30px;
+    margin: 10px;
+    margin-top: 45px;
 }
 
 .veg-options {
@@ -111,16 +111,26 @@ ul {
     font-weight: 900;
 }
 
-.eat-menu {
+.eat-menu-heading {
     text-align: center;
     margin: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
+    border-bottom: 2px solid rgb(83, 81, 81);
+}
+
+.eat-menu  {
+    margin-bottom: 60px;
+}
+
+.drink-menu-heading {
+    text-align: center;
+    margin: 15px;
+    margin-bottom: 35px;
+    border-bottom: 2px solid rgb(83, 81, 81);
 }
 
 .drink-menu {
-    text-align: center;
-    margin: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 
 
