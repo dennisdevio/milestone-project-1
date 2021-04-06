@@ -3,6 +3,11 @@
 The aim of this project is to create a webpage for a café called The Golden Pretzel. The purpose of the website is to market
 their café and provide information about their services to both new and returning customers.
 
+## Showcase
+The live website can be found [here](https://tetrapak-dev.github.io/milestone-project-1/)
+
+![desktop_showcase](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/showcase.png)
+
 ## User Experience (UX)
 The aim was make the user experience as accessible as possible for all clients by creating a website that is easily accessible across all device sizes.
 
@@ -73,7 +78,7 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ## Deployment
 
 ### Hosting Platform
-The live website is hosted on [GitHub Pages](https://pages.github.com/) and can be found here [here](https://tetrapak-dev.github.io/milestone-project-1/)
+The live website is hosted on [GitHub Pages](https://pages.github.com/) and can be found [here](https://tetrapak-dev.github.io/milestone-project-1/)
 
 ### Repository
 There project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
