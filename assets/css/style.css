@@ -43,6 +43,9 @@ p {
 
 /* HOME SECTION */
 
+.carousel-item img {
+    width: 100%; 
+}
 
 .covid-announcement {
     font-size: 120%;
