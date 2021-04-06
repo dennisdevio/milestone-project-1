@@ -137,37 +137,71 @@ ul {
 
 /* CONTACT SECTION */
 
-.contact {
+.contact-heading {
     text-align: center;
     margin: 15px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 20px;
 }
 
 .contact-hours {
     text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
     margin: 15px;
+    margin-top: 20px;
     margin-bottom: 30px;
+}
+
+.contact-hours-underline {
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(83, 81, 81);
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 40px;
 }
 
 .contact-address {
     text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
     margin: 15px;
+    margin-top: 20px;
     margin-bottom: 30px;
 }
 
+.contact-address-underline {
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(83, 81, 81);
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
 
 
 /* FOOTER */
 
 footer {
-    margin-top: 100px;
-    height: 75px;
+    text-align: center;
+    margin-top: 70px;
+    height: 100px;
     background-color: rgb(239, 228, 128);
     box-shadow: 0 0 5px 0 #212529;
 }
 
 footer li {
     display: inline;
-    margin: 30px;
+    margin: 15px;
+    margin-top: 20px;
+}
+
+footer i {
+    font-size: 180%;
+    padding: 10px;
+    margin-top: 10px;
+    color: #212529;
+}
+
+footer i:hover {
+    color: rgb(83, 81, 81);
 }
