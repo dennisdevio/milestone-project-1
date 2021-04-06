@@ -72,25 +72,29 @@ p {
 
 /* MENU SECTION */
 
-.jumbotron-menu {
+.café-menu {
     background-color: rgb(245, 226, 63);
+    text-align: center;
 }
 
 ul {
     list-style: none;
 }
 
-.café-menu {
+.café-menu-heading {
+    text-align: center;
     margin: 15px;
     margin-top: 30px;
 }
 
 .eat-menu {
+    text-align: center;
     margin: 15px;
     margin-bottom: 30px;
 }
 
 .drink-menu {
+    text-align: center;
     margin: 15px;
     margin-bottom: 30px;
 }
