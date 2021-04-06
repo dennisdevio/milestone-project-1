@@ -61,8 +61,9 @@ p {
     background-color: rgb(239, 228, 128);
     text-align: center;
     padding: 15px;
-    padding-top: 25px;
+    padding-top: 27px;
     margin-bottom: 30px;
+    box-shadow: 0 0 5px 0 #212529;
 }
 
 
