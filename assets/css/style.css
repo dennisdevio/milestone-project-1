@@ -153,14 +153,6 @@ ul {
     margin-bottom: 30px;
 }
 
-.contact-hours-underline {
-    padding-bottom: 10px;
-    border-bottom: 2px solid rgb(83, 81, 81);
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 40px;
-}
-
 .contact-address {
     text-align: center;
     padding-left: 70px;
@@ -170,13 +162,6 @@ ul {
     margin-bottom: 30px;
 }
 
-.contact-address-underline {
-    padding-bottom: 10px;
-    border-bottom: 2px solid rgb(83, 81, 81);
-    margin-left: 60px;
-    margin-right: 20px;
-    margin-bottom: 40px;
-}
 
 
 /* FOOTER */
