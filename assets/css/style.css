@@ -31,7 +31,7 @@ p {
 }
 
 .navbar a:hover {
-    border-bottom: 2px solid rgb(83, 81, 81);
+    border-bottom: 1px solid rgb(83, 81, 81);
 }
 
 .logo {
@@ -58,8 +58,11 @@ p {
 
 /* ABOUT SECTION */
 
-.about-us {
+.about {
+    text-align: center;
     margin: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .emphasized-text {
@@ -75,6 +78,7 @@ p {
 .café-menu {
     background-color: rgb(245, 226, 63);
     text-align: center;
+    box-shadow: 0 0 5px 0 #212529;
 }
 
 ul {
