@@ -14,13 +14,15 @@ The aim was make the user experience as accessible as possible for all clients b
 ### User Stories
 
 #### First Time User Goals
-- 
-
+- As a first time user I want to be able to get a first-impression of your business.
+- As a first time user I want to find all information on your services easily.
+- As a first time user I want to find all information on your services while on the go.
+    
 #### Returning User Goals
--
-
-#### Frequent User Goals
--
+- As a returning user I want to know current special announcements.
+- As a returning user I want to know changes to your menu.
+- As a returning user I want to know changes to your opening hours.
+- As a returning user I want to easily find information on your social media.
 
 ### Design
 
