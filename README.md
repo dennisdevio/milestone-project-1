@@ -98,4 +98,4 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's tutor support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made for educational purposes.
+#### This project was made for educational purposes, as part of Code Institute's Full Stack Software Development Programme.
