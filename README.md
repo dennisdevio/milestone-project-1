@@ -25,16 +25,16 @@ My goal was to create an appealing website design and make it as accessible as p
 - As a returning user I want to know changes to your opening hours.
 - As a returning user I want to be able to easily find information on your social media.
 
-### Structure
-The website is built with several sections on one page and it is responsive across all device sizes.
-There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services. Further down there is a menu section with a two part menu - with drinks and foods. At the bottom their contact information and opening hours are listed aswell as links to their social media.
-
 ### Wireframes
 My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with [InVision](https://www.invisionapp.com/) instead.
 
 The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
 
+### Structure
+The website has one page divided into three distinct sections. The home section has a navigation bar with internal links to all different sections aswell as a clickable logo link. Below the navbar I implemented the Bootstrap carousel for showcasing the cafés images with a announcementb bar just below it. The about section further down provides information on the café itself and their passion for baking. The menu is a two-part menu with foods and drinks further divid into sub-sections. The contact information follows the same structure with the opening hours and address divided into two section aswell. At the bottom there are social media links to their social media pages. The menu collapses into a hamburger-button with fold down links on medium-size and small devices.
+
 ### Design
+The website consists mainly of white color and a shade of yellow color to go with the name of "The Golden Pretzel". My idea was that the yellow color would draw users attention the most important parts of the page, that is why I have made the announcement bar, just below the pictures and the menu with the color yellow background aswell as the navigation bar and footer in the same color. The café's logo is a drawing of a pretzel to go with the theme, I feelt it was a cute and fun detail. The menu links at the top have a underline on hover, and the social media links at the bottom change color from grey to black on hover. The menus have their static underline respectively to draw the users attention to the menu.
 
 #### Fonts and Icons
 The fonts I chose were Courgette for the headings and Roboto for the paragraph text.
