@@ -72,8 +72,9 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 
 
 ## Testing
+Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices. The
+
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
-### Known Bugs
 
 The testing was done using
 
@@ -91,16 +92,17 @@ The testing was done using
 
 #### Bugs Fixed
 There were quite a few bugs along the process but I sorted out the majority of them.
-I ran into trouble with the menu quite early, no hamburger button would appear.
-The carousel didn't fit att first,
-Then it didn't work to change pictures on it,
-At the near end of the process I wanted to implement underlines in the contact section as I did in the menu, but it wouldn't work without deistorting the text alignment so I decided not to go with it due to time constraints. It would have been nice to have them but it actually looks better without them compared to how the look before removing them.
+No hamburger button was showing at first.
+The carousel didn't fit att first.
+The carousel would not change pictures
+The underlines in the contact section was not showing as they do in the menu so I decided not to go with them.
 
 #### Bugs Left
-- The carousel changes images automatically, I did not manage to turn it of due to time constraints.
-- Images files in the carousel were to large so they are partially cut of on some mobile devices.
-- Contact heading is not quite centered on all mobile devices.
-- The paragraphs in the contact section are not quite vertically aligned with the menu lists above them on some larger screens.
+- The carousel changes images automatically. I wanted to turn it of to improve user experience but I did not manage to turn it of within the time frame.
+- Images files in the carousel were to large, so they are partially cut off on some mobile devices. This was discover through manual user testing on a Fairphone 3.
+- Contact heading is not quite centered on all mobile devices. This too was discover during manual user testing on a Fairphone 3.
+- Through Firefox Devtools mobile device testingI discovered that the heading in the navbar is cut off on Iphone 5.
+- The paragraphs in the contact section are not quite vertically aligned with the menu lists above them larger screens. This was discover during manual testing on a Acer Laptop.
 
 ## Deployment
 
@@ -112,14 +114,14 @@ This project reposity is hosted on [GitHub](https://github.com/) and can be foun
 
 ## Credits
 - [Stack Overflow](https://stackoverflow.com/)
-- [W3C schools](https://www.w3schools.com/)
+- [W3C Schools](https://www.w3schools.com/)
 - [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/index.html)
 
 ### Inspiration
 I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
 
 ### Acknowledgements
-- Code Institute's tutor support and Slack community.
+- Code Institute's Tutor Support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made as part of Code Institute's Full Stack Software Development Programme. This is for educational purposes only, 
+#### This project was made as part of Code Institute's Full Stack Software Development Programme.  This is for educational purposes only.      Created by Dennis Chmielewski.
