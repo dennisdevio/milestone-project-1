@@ -89,7 +89,7 @@ p {
 
 /* MENU SECTION */
 
-.café-menu {
+.cafe-menu {
     background-color: rgb(239, 228, 128);
     text-align: center;
     box-shadow: 0 0 5px 0 #212529;
@@ -99,7 +99,7 @@ ul {
     list-style: none;
 }
 
-.café-menu-heading {
+.cafe-menu-heading {
     text-align: center;
     margin: 10px;
     margin-top: 45px;
