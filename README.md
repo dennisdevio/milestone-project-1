@@ -25,7 +25,7 @@ My goal was to create an appealing website design and make it as accessible as p
 - As a returning user I want to know changes to your opening hours.
 - As a returning user I want to be able to easily find information on your social media.
 
-# Structure
+### Structure
 The website is built with several sections on one page and it is responsive across all device sizes.
 There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services. Further down there is a menu section with a two part menu - with drinks and foods. At the bottom their contact information and opening hours are listed aswell as links to their social media.
 
@@ -44,7 +44,7 @@ I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I 
 All images were taken from [Unsplash](unsplash.com/). 
 I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
 
-### Features
+## Features
 On entering the website there's an image carousel on display, showcasing images from the café. 
 A hamburger-button menu displayed on smaller screens.
 Responsive design between larger and smaller screens.
@@ -71,17 +71,17 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 
 - [jQuery](https://jquery.com) to simplify DOM manipulation of the Bootstrap Carousel.
 
-#### Programs
+### Programs
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
 
 ## Testing
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 ### Known Bugs
 
-#### Bugs Fixed
+### Bugs Fixed
 -
 
-#### Bugs Left
+### Bugs Left
 -
 
 ## Deployment
