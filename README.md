@@ -73,7 +73,7 @@ There were quite a few bugs along the process but I sorted out the majority of t
 
 - [Firefox DevTools](https://firefox-dev.tools/)
 
-I used Lighthouse several times during the final stages of the testing process. At first I got results around 80% but I later implemented the changes suggested and got it almost to 100% in all areas. I added meta tags for SEO and improved all the links by adding aria-labels to them for accessibility, as well as improved the logo alt value. The biggest issue from the report was that the images were too big. This also caused problems with the carousel earlier, in retrospect I should have used smaller images for better results.
+I used Lighthouse several times during the final stages of the testing process. At first I got results around 80% but I later implemented the changes suggested and got it almost to 100% in all areas. I added meta tags for SEO and improved all the links by adding aria-labels to them for accessibility, as well as improved the logo alt value. The biggest issue from the report was that the images were too big. This also caused problems with the carousel earlier, in retrospect I should have used smaller images for better results. Lastly, the logo image failed test because it is orange on a yellow background. In hind sight this was a mistake, but I did not have time to fix it.
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - results of the final report can be seen below.
 
@@ -121,6 +121,9 @@ A deployed version of the website is hosted on
 ### Repository
 This project reposity is hosted on  
 - [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
+
+### Results and Conclusion
+I had no prior experience building a website like this. The whole process was quite confusing in the beginning and midway through I felt I was short on time. In conclusion, the features not implemented and the few bugs left could have been avoided with better planning but there are no major issues, the site is live and I am quite happy with the result. This experience has thaught me a lot and I am looking forward to MS2!
 
 ## Credits
 - [Stack Overflow](https://stackoverflow.com/)
