@@ -26,9 +26,9 @@ My goal was to create an appealing website design and make it as accessible as p
 - As a returning user I want to be able to easily find information on your social media.
 
 ### Wireframes
-My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with [InVision](https://www.invisionapp.com/) instead.
+At first I planned on making five wireframes, one for each bootstrap breakpoint but it didn't feel meaningful so I decided to go with three. At first I was going to use Balsamiq for the wireframes but I turned out I couldn't because it's not available on Linux, which I am developing this project on. Therefore I decided to go with InVision instead.
 
-The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
+- [InVision](https://www.invisionapp.com/) - The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
 
 ### Structure
 The website has one page divided into three distinct sections. The home section has a navigation bar with internal links to all different sections aswell as a clickable logo link. Below the navbar I implemented the Bootstrap carousel for showcasing the cafés images with a announcementb bar just below it. The about section further down provides information on the café itself and their passion for baking. The menu is a two-part menu with foods and drinks further divid into sub-sections. The contact information follows the same structure with the opening hours and address divided into two section aswell. At the bottom there are social media links to their social media pages. The menu collapses into a hamburger-button with fold down links on medium-size and small devices.
@@ -38,8 +38,8 @@ The website consists mainly of white color and a shade of yellow color to go wit
 
 ## Features
 - On entering the website there's an image carousel on display, showcasing images from the café. 
-- A hamburger-button menu displayed on smaller screens.
-- Responsive design between larger and smaller screens.
+- A hamburger-button menu displayed on tablet and mobile screens.
+- Responsive design between desktop screens and mobile screens.
 
 #### Features Left to Implement
 The following features will be implemented on a future release
@@ -68,14 +68,22 @@ The technologies utilized to build this website are
 - [jQuery](https://jquery.com) to simplify DOM manipulation of the Bootstrap Carousel.
 
 ## Testing
-![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
-
 - [Firefox DevTools](https://firefox-dev.tools/)
 
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - was used several times through out the process to improve testing results.
+I used Lighthouse several times during the final stages of the testing process. At first I got results around 80% but I later implemented the changes suggested and got it almost to 100% in all areas. I added meta tags for SEO and improved all the links by adding aria-labels to them for accessibility, as well as improved the logo alt value. The biggest issue from the report was that the images were too big. This also caused problems with the carousel earlier, in retrospect I should have used smaller images for better results.
+
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - results of the final report can be seen below.
+
+
+![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
+
+
 
 - [W3C HTML Validator](https://validator.w3.org/) - was used two times throughout the process to improve testing results. 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - was used two times throughout the process to improve testing results.
+
+
+
 
 The website was tested on the following browsers on both latop and mobile devices.
 - [Firefox Web Browser](https://www.mozilla.org/en-US/firefox/new/)
@@ -95,13 +103,13 @@ The website was manually tested on the following devices.
  - [Asus Desktop](https://www.asus.com/)
 
 Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices.
+There were quite a few bugs along the process but I sorted out the majority of them.
 
 #### Bugs Fixed
-There were quite a few bugs along the process but I sorted out the majority of them.
-No hamburger button was showing at first.
-The carousel didn't fit att first.
-The carousel would not change pictures
-The underlines in the contact section was not showing as they do in the menu so I decided not to go with them.
+- No hamburger button was showing at first.
+- The carousel didn't fit att first.
+- The carousel would not change pictures
+- The underlines in the contact section was not showing as they do in the menu section so I decided not to go with them due to time constraints (will be implemented on a future release).
 
 #### Bugs Left
 - The carousel changes images automatically. I wanted to turn it of to improve user experience but I did not manage to turn it of within the time frame.
@@ -130,4 +138,4 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's Tutor Support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made as part of Code Institute's Full Stack Software Development Programme.  This is for educational purposes only.      Created by Dennis Chmielewski.
+#### This project was made as part of Code Institute's Full Stack Software Development Programme. \This is for educational purposes only.      Created by Dennis Chmielewski.
