@@ -49,7 +49,7 @@ On entering the website there's an image carousel on display, showcasing images 
 A hamburger-button menu displayed on smaller screens.
 Responsive design between larger and smaller screens.
 
-### Features Left to Implement
+#### Features Left to Implement
 Adding an iframe map of to location of the café.
 Creating a form for larger orders such as birthday parties and weddings.
 Adding another swedish version page to the site with the option to switch between the two.
@@ -78,11 +78,14 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 ### Known Bugs
 
-### Bugs Fixed
+#### Bugs Fixed
 -
 
-### Bugs Left
--
+#### Bugs Left
+- The carousel changes images automatically, I did not manage to turn it of due to time constraints.
+- Images files in the carousel were to large so they are partially cut of on some mobile devices.
+- Contact heading is not quite centered on all mobile devices.
+- The paragraphs in the contact section are not quite vertically aligned with the menu lists above them on some larger screens.
 
 ## Deployment
 
