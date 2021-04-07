@@ -37,58 +37,64 @@ The website has one page divided into three distinct sections. The home section 
 The website consists mainly of white color and a shade of yellow color to go with the name of "The Golden Pretzel". My idea was that the yellow color would draw users attention the most important parts of the page, that is why I have made the announcement bar, just below the pictures and the menu with the color yellow background aswell as the navigation bar and footer in the same color. The café's logo is a drawing of a pretzel to go with the theme, I feelt it was a cute and fun detail. The menu links at the top have a underline on hover, and the social media links at the bottom change color from grey to black on hover. The menus have their static underline respectively to draw the users attention to the menu.
 
 ## Features
-On entering the website there's an image carousel on display, showcasing images from the café. 
-A hamburger-button menu displayed on smaller screens.
-Responsive design between larger and smaller screens.
+- On entering the website there's an image carousel on display, showcasing images from the café. 
+- A hamburger-button menu displayed on smaller screens.
+- Responsive design between larger and smaller screens.
 
 #### Features Left to Implement
-- Adding an iframe map of to location of the café.
+The following features will be implemented on a future release
+
+- Adding an iFrame map to the location of the café.
 - Creating a form for larger orders such as birthday parties and weddings.
-Adding another swedish version page to the site with the option to switch between the two.
+- Adding another swedish version page to the site with a button to switch between the two.
 
 ## Technologies
 The technologies utilized to build this website are
+
+- [Gitpod](https://www.gitpod.io/) IDE for all code editing.
+- [TinyPNG](https://tinypng.com/) for image compression to decrease load times of the website.
+- [Unsplash](unsplash.com/) for all images used in the project. 
+- [Google Fonts](https://fonts.google.com/) for all font styles.
+- [Font Awesome](https://fontawesome.com/start) for social media icons.
 
 ### Languages 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) HTML5 was used for structuring the basis of the website. 
 - [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) CSS3 was used for the placement and styling of the HTML5 content. 
 
-They were used in tandem to accomplish the overall look and feel and responsiveness of the website. 
-
 ### Frameworks
-
 - [Bootstrap 4.5.3](https://getbootstrap.com/docs/4.5/getting-started/introduction/) for building a responsive website.
 
 ### Libraries 
-
 - [jQuery](https://jquery.com) to simplify DOM manipulation of the Bootstrap Carousel.
 
-### Programs
-- I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
-
-- All images were taken from [Unsplash](unsplash.com/). 
-- I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I used for the social media links were taken from [Font Awesome](https://fontawesome.com/start).
-- I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
-
-
 ## Testing
-Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices. The
-
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 
-The testing was done using
+- [Firefox DevTools](https://firefox-dev.tools/)
 
-- Lighthouse - several times through out the process to improve testing results.
-- W3C HTML Validator - several times through out the process to improve testing results. 
-- W3C CSS Validator - several times through out the process to improve testing results.
-- FireFox DevTools - consistently through every new addition to the code throughout the process.
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - was used several times through out the process to improve testing results.
 
-- Manual user testing on several different operating systems - Android, Linux and Windows.
-- Manual user testing on several different devices - Iphone, Fairphone 3, Laptop and Desktop.
-- Manual user testing on several different browsers - Firefox, Chrome, Opera, Safari, Edge.
+- [W3C HTML Validator](https://validator.w3.org/) - was used two times throughout the process to improve testing results. 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - was used two times throughout the process to improve testing results.
 
+The website was tested on the following browsers on both latop and mobile devices.
+- [Firefox Web Browser](https://www.mozilla.org/en-US/firefox/new/)
+- [Chrome Web Browser](https://www.google.com/chrome/)
+- [Opera Web Browser](https://www.opera.com/)
+- [Edge Web Browser](https://www.microsoft.com/edge)
 
+The website was tested on the following operating systems on laptop and desktop devices.
+- [Android](https://www.android.com/)
+- [Linux Mint](https://linuxmint.com/)
+- [Windows 10](https://www.microsoft.com/software-download/windows10)
 
+The website was manually tested on the following devices.
+
+ - [Fairphone 3](https://www.fairphone.com/en/)
+ - [Acer Swift 3 Laptop](https://www.acer.com/ac/en/US/content/series/swift3)
+ - [Asus Desktop](https://www.asus.com/)
+
+Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices.
 
 #### Bugs Fixed
 There were quite a few bugs along the process but I sorted out the majority of them.
