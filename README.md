@@ -115,10 +115,12 @@ The website was manually tested on the following devices.
 ## Deployment
 
 ### Hosting Platform
-A deployed version of the website is hosted on [GitHub Pages](https://pages.github.com/)
+A deployed version of the website is hosted on 
+- [GitHub Pages](https://pages.github.com/) - you can view the link [here](https://tetrapak-dev.github.io/milestone-project-1/)
 
 ### Repository
-This project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
+This project reposity is hosted on  
+- [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
 - [Stack Overflow](https://stackoverflow.com/)
@@ -132,4 +134,7 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's Tutor Support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made as part of Code Institute's Full Stack Software Development Programme. /This is for educational purposes only.      Created by Dennis Chmielewski.
+
+#### This project was made as part of Code Institute's Full Stack Software Development Programme. 
+#### This is for educational purposes only.
+#### Created by Dennis Chmielewski.
