@@ -2,7 +2,7 @@
 
 This is the website for The Golden Pretzel | Café and Bakery. 
 The purpose of this website is to increase
-The Golden Pretzel's internet presence as part of being a competitive business and provide easily accessible information on their services to their customers, both new and regulars.
+The Golden Pretzel's internet presence as part of being a competitive business and provide easily accessible information on their services to both new and regulars customers.
 
 ## Showcase
 The live website can be found [here](https://tetrapak-dev.github.io/milestone-project-1/)
@@ -50,8 +50,8 @@ A hamburger-button menu displayed on smaller screens.
 Responsive design between larger and smaller screens.
 
 #### Features Left to Implement
-Adding an iframe map of to location of the café.
-Creating a form for larger orders such as birthday parties and weddings.
+- Adding an iframe map of to location of the café.
+- Creating a form for larger orders such as birthday parties and weddings.
 Adding another swedish version page to the site with the option to switch between the two.
 
 ## Technologies
@@ -97,7 +97,7 @@ This project reposity is hosted on [GitHub](https://github.com/) and can be foun
 
 ## Credits
 - [Stack Overflow](https://stackoverflow.com/)
-- [w3c schools](https://www.w3schools.com/)
+- [W3C schools](https://www.w3schools.com/)
 - [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/index.html)
 
 ### Inspiration
