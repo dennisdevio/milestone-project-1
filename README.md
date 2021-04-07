@@ -1,6 +1,7 @@
 # The Golden Pretzel | Café and Bakery
 
-This is the website for The Golden Pretzel | Café and Bakery. The purpose of this website is to increase
+This is the website for The Golden Pretzel | Café and Bakery. 
+The purpose of this website is to increase
 The Golden Pretzel's internet presence as part of being a competitive business and provide easily accessible information on their services to their customers, both new and regulars.
 
 ## Showcase
@@ -8,8 +9,8 @@ The live website can be found [here](https://tetrapak-dev.github.io/milestone-pr
 
 ![desktop_showcase](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/showcase_laptop.png)
 
-## User Experience (UX)
-The aim was make the user experience as accessible as possible for all clients by creating a website that is easily accessible across all device sizes.
+## UX
+My goal was to create an appealing website design and make it as accessible as possible by creating a user-friendly design that works smoothly on all device sizes.
 
 ### User Stories
 
