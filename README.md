@@ -15,7 +15,7 @@ My goal was to create an appealing website design and make it as accessible as p
 ### User Stories
 
 #### First Time User Goals
-- As a first time user I want to be able to get a great first-impression of your business.
+- As a first time user I want to be able to get a great first impression of your business.
 - As a first time user I want to find all information on your services easily.
 - As a first time user I want to find all information on your services while on the go.
     
@@ -25,10 +25,16 @@ My goal was to create an appealing website design and make it as accessible as p
 - As a returning user I want to know changes to your opening hours.
 - As a returning user I want to be able to easily find information on your social media.
 
-### Design
+# Structure
+The website is built with several sections on one page and it is responsive across all device sizes.
+There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services. Further down there is a menu section with a two part menu - with drinks and foods. At the bottom their contact information and opening hours are listed aswell as links to their social media.
 
-#### Colors
--
+### Wireframes
+My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with [InVision](https://www.invisionapp.com/) instead.
+
+The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
+
+### Design
 
 #### Fonts and Icons
 The fonts I chose were Courgette for the headings and Roboto for the paragraph text.
@@ -38,19 +44,15 @@ I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I 
 All images were taken from [Unsplash](unsplash.com/). 
 I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
 
-### Wireframes
-My original idea was to make five wireframes and breakpoints but I felt it didn't make sense so after some consideration I changed it to three. At first I was going to use Balsamiq for the wireframes but I couldn't use it because it turned out it's not available on Linux which I am developing this project on. Therefore I decided to go with [InVision](https://www.invisionapp.com/) instead.
-
-The wireframes for this website can be found [here](https://dennischmielewski323696.invisionapp.com/freehand/The-Golden-Pretzel-XozP370FD)
-
-## Features
-The website is built with several sections on one page and it is responsive across all device sizes.
-
-### Existing Features
-There's the cafe's logo at the top left corner and a navigation menu at the top right, and below that there's an about section describing The Golden Pretzel's services. Further down there is a menu section with a two part menu - with drinks and foods. At the bottom their contact information and opening hours are listed aswell as links to their social media.
+### Features
+On entering the website there's an image carousel on display, showcasing images from the café. 
+A hamburger-button menu displayed on smaller screens.
+Responsive design between larger and smaller screens.
 
 ### Features Left to Implement
--
+Adding an iframe map of to location of the café.
+Creating a form for larger orders such as birthday parties and weddings.
+Adding another swedish version page to the site with the option to switch between the two.
 
 ## Technologies
 The technologies utilized to build this website are
@@ -63,7 +65,11 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 
 ### Frameworks
 
+- Bootstrap 4.5.3
+
 ### Libraries 
+
+- jQuery
 
 #### Programs
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
