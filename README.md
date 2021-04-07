@@ -68,7 +68,7 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
 
 ## Testing
-
+![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 ### Known Bugs
 
 #### Bugs Fixed
