@@ -93,10 +93,12 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 A deployed version of the website is hosted on [GitHub Pages](https://pages.github.com/)
 
 ### Repository
-There project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
+This project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
-
+- [Stack Overflow](https://stackoverflow.com/)
+- [w3c schools](https://www.w3schools.com/)
+- [Bootstrap Essentials](https://ajgreaves.github.io/bootstrap-grid-demo/index.html)
 
 ### Inspiration
 I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
