@@ -1,7 +1,7 @@
 # The Golden Pretzel | Café and Bakery
 
-The aim of this project is to create a webpage for a café called The Golden Pretzel. The purpose of the website is to market
-their café and provide information about their services to both new and returning customers.
+This is the website for The Golden Pretzel | Café and Bakery. The purpose of this website is to increase
+The Golden Pretzel's internet presence as part of being a competitive business and provide easily accessible information on their services to their customers, both new and regulars.
 
 ## Showcase
 The live website can be found [here](https://tetrapak-dev.github.io/milestone-project-1/)
