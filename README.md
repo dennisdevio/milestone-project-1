@@ -87,18 +87,13 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ## Deployment
 
 ### Hosting Platform
-The live website is hosted on [GitHub Pages](https://pages.github.com/) and can be found [here](https://tetrapak-dev.github.io/milestone-project-1/)
+A deployed version of the website is hosted on [GitHub Pages](https://pages.github.com/)
 
 ### Repository
 There project reposity is hosted on [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
 
 ## Credits
 
-#### Text
--
-
-#### Images
--
 
 ### Inspiration
 I recieved inspiration for this project from a family member who wishes to one day open a café and bakery of her own.
@@ -107,4 +102,4 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's tutor support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made for educational purposes, as part of Code Institute's Full Stack Software Development Programme.
+#### This project was made as part of Code Institute's Full Stack Software Development Programme. This is for educational purposes only, 
