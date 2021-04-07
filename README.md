@@ -36,14 +36,6 @@ The website has one page divided into three distinct sections. The home section 
 ### Design
 The website consists mainly of white color and a shade of yellow color to go with the name of "The Golden Pretzel". My idea was that the yellow color would draw users attention the most important parts of the page, that is why I have made the announcement bar, just below the pictures and the menu with the color yellow background aswell as the navigation bar and footer in the same color. The café's logo is a drawing of a pretzel to go with the theme, I feelt it was a cute and fun detail. The menu links at the top have a underline on hover, and the social media links at the bottom change color from grey to black on hover. The menus have their static underline respectively to draw the users attention to the menu.
 
-#### Fonts and Icons
-The fonts I chose were Courgette for the headings and Roboto for the paragraph text.
-I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I used for the social media links were taken from [Font Awesome](https://fontawesome.com/start).
-
-#### Images
-All images were taken from [Unsplash](unsplash.com/). 
-I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
-
 ## Features
 On entering the website there's an image carousel on display, showcasing images from the café. 
 A hamburger-button menu displayed on smaller screens.
@@ -74,12 +66,35 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 ### Programs
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
 
+- All images were taken from [Unsplash](unsplash.com/). 
+- I took the fonts from [Google Fonts](https://fonts.google.com/) and the icons I used for the social media links were taken from [Font Awesome](https://fontawesome.com/start).
+- I further compressed the images using [TinyPNG](https://tinypng.com/) to decrease load times and keep the performance of the website as smooth as possible.
+
+
 ## Testing
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 ### Known Bugs
 
+The testing was done using
+
+- Lighthouse - several times through out the process to improve testing results.
+- W3C HTML Validator - several times through out the process to improve testing results. 
+- W3C CSS Validator - several times through out the process to improve testing results.
+- FireFox DevTools - consistently through every new addition to the code throughout the process.
+
+- Manual user testing on several different operating systems - Android, Linux and Windows.
+- Manual user testing on several different devices - Iphone, Fairphone 3, Laptop and Desktop.
+- Manual user testing on several different browsers - Firefox, Chrome, Opera, Safari, Edge.
+
+
+
+
 #### Bugs Fixed
--
+There were quite a few bugs along the process but I sorted out the majority of them.
+I ran into trouble with the menu quite early, no hamburger button would appear.
+The carousel didn't fit att first,
+Then it didn't work to change pictures on it,
+At the near end of the process I wanted to implement underlines in the contact section as I did in the menu, but it wouldn't work without deistorting the text alignment so I decided not to go with it due to time constraints. It would have been nice to have them but it actually looks better without them compared to how the look before removing them.
 
 #### Bugs Left
 - The carousel changes images automatically, I did not manage to turn it of due to time constraints.
