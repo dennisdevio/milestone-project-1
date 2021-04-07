@@ -68,22 +68,19 @@ The technologies utilized to build this website are
 - [jQuery](https://jquery.com) to simplify DOM manipulation of the Bootstrap Carousel.
 
 ## Testing
+Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices.
+There were quite a few bugs along the process but I sorted out the majority of them.
+
 - [Firefox DevTools](https://firefox-dev.tools/)
 
 I used Lighthouse several times during the final stages of the testing process. At first I got results around 80% but I later implemented the changes suggested and got it almost to 100% in all areas. I added meta tags for SEO and improved all the links by adding aria-labels to them for accessibility, as well as improved the logo alt value. The biggest issue from the report was that the images were too big. This also caused problems with the carousel earlier, in retrospect I should have used smaller images for better results.
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - results of the final report can be seen below.
 
-
 ![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
-
-
 
 - [W3C HTML Validator](https://validator.w3.org/) - was used two times throughout the process to improve testing results. 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - was used two times throughout the process to improve testing results.
-
-
-
 
 The website was tested on the following browsers on both latop and mobile devices.
 - [Firefox Web Browser](https://www.mozilla.org/en-US/firefox/new/)
@@ -101,9 +98,6 @@ The website was manually tested on the following devices.
  - [Fairphone 3](https://www.fairphone.com/en/)
  - [Acer Swift 3 Laptop](https://www.acer.com/ac/en/US/content/series/swift3)
  - [Asus Desktop](https://www.asus.com/)
-
-Testing was done throughout the whole development process. I used Firefox Devtools extensively for debugging errors along the and before implementing new code to the website by using the boxmodel to see what needed to be done. When the website was nearly finished I used devtools to test how it would render on different mobile devices.
-There were quite a few bugs along the process but I sorted out the majority of them.
 
 #### Bugs Fixed
 - No hamburger button was showing at first.
@@ -138,4 +132,4 @@ I recieved inspiration for this project from a family member who wishes to one d
 - Code Institute's Tutor Support and Slack community.
 - My mentor [Akshat Garg](https://github.com/akshatnitd) for his advice and support.
 
-#### This project was made as part of Code Institute's Full Stack Software Development Programme. \This is for educational purposes only.      Created by Dennis Chmielewski.
+#### This project was made as part of Code Institute's Full Stack Software Development Programme. /This is for educational purposes only.      Created by Dennis Chmielewski.
