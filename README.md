@@ -69,7 +69,7 @@ They were used in tandem to accomplish the overall look and feel and responsiven
 
 ### Libraries 
 
-- jQuery
+- [jQuery](https://jquery.com) to simplify DOM manipulation of the Bootstrap Carousel.
 
 #### Programs
 - I used [Gitpod](https://www.gitpod.io/) IDE for all code editing.
