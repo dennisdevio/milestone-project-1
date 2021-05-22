@@ -10,8 +10,7 @@ The live website can be found [here](https://tetrapak-dev.github.io/milestone-pr
 ![desktop_showcase](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/showcase_laptop.png)
 
 ## UX
-My goal was to create an appealing and easily comprehensible website design that presents the latest weather forecast information no matter where you are, that is easy to and works smoothly on all devices. 
-As the data presented can be percieved as somewhat complex I felt it was important to present it in such a way that it is clear and easy to understand no matter who you are and what device you are using.
+My goal was to create an appealing website design and make it as accessible as possible by creating a user-friendly design that works smoothly on all device sizes.
 
 ### User Stories
 
