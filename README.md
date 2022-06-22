@@ -5,7 +5,7 @@ The purpose of this website is to increase
 The Golden Pretzel's internet presence as part of being a competitive business and provide easily accessible information on their services to both new and regulars customers.
 
 ## Showcase
-The live website can be found [here](https://github.com/dennisdevio/milestone-project-1)
+The live website can be found [here](hhttps://dennisdevio.github.io/milestone-project-1/)
 
 ![desktop_showcase](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/showcase_laptop.png)
 
