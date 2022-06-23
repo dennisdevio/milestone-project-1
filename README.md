@@ -116,11 +116,11 @@ The website was manually tested on the following devices.
 
 ### Hosting Platform
 A deployed version of the website is hosted on 
-- [GitHub Pages](https://pages.github.com/) - you can view the link [here](https://tetrapak-dev.github.io/milestone-project-1/)
+- [GitHub Pages](https://pages.github.com/) - you can view the link [here](https://dennisdevio.github.io/milestone-project-1/)
 
 ### Repository
 This project reposity is hosted on  
-- [GitHub](https://github.com/) and can be found [here](https://github.com/tetrapak-dev/milestone-project-1)
+- [GitHub](https://github.com/) and can be found [here](https://github.com/dennisdevio/milestone-project-1)
 
 ### Results and Conclusion
 I had no prior experience building a website like this. The whole process was quite confusing in the beginning and midway through I felt I was short on time. In conclusion, the features not implemented and the few bugs left could have been avoided with better planning but there are no major issues, the site is live and I am quite happy with the result. This experience has thaught me a lot and I am looking forward to MS2!
