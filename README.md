@@ -7,7 +7,7 @@ The Golden Pretzel's internet presence as part of being a competitive business a
 ## Showcase
 The live website can be found [here](https://dennisdevio.github.io/milestone-project-1/)
 
-![desktop_showcase](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/showcase_laptop.png)
+![desktop_showcase](https://github.com/dennisdevio/milestone-project-1/blob/master/assets/images/showcase_laptop.png)
 
 ## UX
 My goal was to create an appealing website design and make it as accessible as possible by creating a user-friendly design that works smoothly on all device sizes.
@@ -77,7 +77,7 @@ I used Lighthouse several times during the final stages of the testing process. 
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - results of the final report can be seen below.
 
-![lighthouse_report](https://github.com/tetrapak-dev/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
+![lighthouse_report](https://github.com/dennisdevio/milestone-project-1/blob/master/assets/images/Screenshot_2021-04-07%20Lighthouse%20Report%20Viewer.png)
 
 - [W3C HTML Validator](https://validator.w3.org/) - was used two times throughout the process to improve testing results. 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - was used two times throughout the process to improve testing results.
